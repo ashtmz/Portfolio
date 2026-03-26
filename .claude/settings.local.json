@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(chmod +x /Users/tmz/Desktop/Set/Git/HP/node_modules/.bin/vite)",
+      "Bash(npm install:*)",
+      "Bash(npx vite:*)",
+      "Bash(ln -s ../vite/bin/vite.js /Users/tmz/Desktop/Set/Git/HP/node_modules/.bin/vite)",
+      "Bash(./node_modules/.bin/vite build:*)",
+      "Bash(node /Users/tmz/Desktop/Set/Git/HP/node_modules/vite/bin/vite.js build)",
+      "Bash(find /tmp -maxdepth 2 -name *.jpg -o -name *.jpeg -o -name *.png -o -name *.heic)",
+      "Bash(find /private/tmp -maxdepth 3 -type f \\\\\\(-name *.jpg -o -name *.jpeg -o -name *.png -o -name *.webp \\\\\\))",
+      "Bash(node node_modules/vite/bin/vite.js build)",
+      "Bash(sips --resampleWidth 1600 -s formatOptions 80 /Users/tmz/Desktop/Set/Git/HP/public/images/gallery/gallery-01.jpg --out /Users/tmz/Desktop/Set/Git/HP/public/images/gallery/gallery-01.jpg)",
+      "Bash(for f:*)",
+      "Bash(do sips:*)",
+      "Bash(done)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
