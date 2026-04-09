@@ -1,6 +1,3 @@
-// Import the CSS
-import './style.css'
-
 document.addEventListener('DOMContentLoaded', () => {
   const navBtns = document.querySelectorAll('.nav-btn');
   const sections = document.querySelectorAll('.content-section');
